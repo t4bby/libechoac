@@ -1,5 +1,5 @@
 # libechoac
-A wrapper for echoac.sys vulnerable driver.
+A wrapper for `echo_driver.sys` vulnerable driver.
 
 ## Features
 - [x] Read arbitrary memory
